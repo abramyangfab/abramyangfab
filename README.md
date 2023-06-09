@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abraham Yang @ fabernovel
-- 👀 I’m interested in building miniprograms :)
+- 🔭 I’m currently working on building miniprograms :)
+- 👯 I’m looking to collaborate on funny projects :D
 - 🌱 I’m currently learning backend languages
-- 💞️ I’m looking to collaborate on funny projects :D.
 - 📫 How to reach me: 
     - email: abraham.yang@fabernovel.com 
     - wechat: abramyangcn
