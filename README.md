@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abraham Yang @ fabernovel
+- 👋 Hi, I’m Abraham Yang @ trajectry
 - 🔭 I’m currently working on building miniprograms :)
 - 👯 I’m looking to collaborate on funny projects :D
 - 🌱 I’m currently learning backend languages
