@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on funny projects :D
 - 🌱 I’m currently learning backend languages
 - 📫 How to reach me: 
-    - email: abraham.yang@fabernovel.com 
+    - email: abraham.yang@trajectry.com 
     - wechat: abramyangcn
 
 [![Abraham's github stats](https://github-readme-stats.vercel.app/api?username=abramyangfab)](https://github.com/anuraghazra/github-readme-stats)
